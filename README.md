@@ -30,8 +30,8 @@
 ## 📖1.Giới thiệu hệ thống
 
 Hệ thống Quản lý Lịch tập Cá nhân hóa được xây dựng nhằm hỗ trợ người dùng quản lý, theo dõi và tối ưu hóa kế hoạch tập luyện thể thao của bản thân.
-Hệ thống cho phép người dùng lựa chọn cấp độ (người mới bắt đầu, người đã có nền tảng hoặc vận động viên) để nhận được gợi ý bài tập và chế độ dinh dưỡng phù hợp.
-Ngoài ra, hệ thống còn giúp người dùng theo dõi tiến trình tập luyện, thống kê lượng calo tiêu thụ, và tạo lịch tập tự động dựa trên mục tiêu cá nhân.
+Hệ thống cho phép người dùng  nhận được gợi ý bài tập  phù hợp.
+Ngoài ra, hệ thống còn giúp người dùng theo dõi tiến trình tập luyện, và tạo lịch tập tự động dựa trên mục tiêu cá nhân.
 
 Mục tiêu của hệ thống là cá nhân hóa trải nghiệm luyện tập bằng cách kết hợp công nghệ web hiện đại và các nguyên tắc khoa học thể hình, giúp người dùng xây dựng thói quen lành mạnh, nâng cao hiệu quả tập luyện và duy trì phong độ lâu dài.
 
