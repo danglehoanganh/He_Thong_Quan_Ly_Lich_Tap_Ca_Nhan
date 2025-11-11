@@ -83,8 +83,10 @@ Hệ điều hành hỗ trợ: Windows
 
    <p align="center">
   <img src="Screenshot 2025-11-11 115341.png" alt="GitHub Logo" width="800">
+  <img src="Screenshot 2025-11-11 120333.png" alt="GitHub Logo" width="800">
 </p>
 <p align="center">Hình 4</p>
+
 
  <p align="center">
   <img src="Screenshot 2025-11-11 115456.png" alt="GitHub Logo" width="800">
